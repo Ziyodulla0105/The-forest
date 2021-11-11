@@ -1,0 +1,96 @@
+@font-face {
+  font-family: 'iconla';
+  src:  url('fonts/iconla.eot?1qckc3');
+  src:  url('fonts/iconla.eot?1qckc3#iefix') format('embedded-opentype'),
+    url('fonts/iconla.ttf?1qckc3') format('truetype'),
+    url('fonts/iconla.woff?1qckc3') format('woff'),
+    url('fonts/iconla.svg?1qckc3#iconla') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-1"], [class*=" icon-1"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'iconla' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-1xarita:before {
+  content: "\e94b";
+}
+.icon-1yer:before {
+  content: "\e9ca";
+}
+.icon-1pasga:before {
+  content: "\ea43";
+}
+.icon-1telegram:before {
+  content: "\ea95";
+}
+.icon-1quyosh:before {
+  content: "\e900";
+}
+.icon-1oy:before {
+  content: "\e901";
+}
+.icon-1qoraoy:before {
+  content: "\e902";
+}
+.icon-1bulut:before {
+  content: "\e903";
+}
+.icon-1yomgir:before {
+  content: "\e904";
+}
+.icon-1win10:before {
+  content: "\e001";
+}
+.icon-1andiroid:before {
+  content: "\e004";
+}
+.icon-1edslatma:before {
+  content: "\e01e";
+}
+.icon-1telescope:before {
+  content: "\e02a";
+}
+.icon-1kopirovat:before {
+  content: "\e031";
+}
+.icon-1lupa:before {
+  content: "\e037";
+}
+.icon-1undov:before {
+  content: "\e905";
+}
+.icon-1yomgir2:before {
+  content: "\e906";
+}
+.icon-1qor:before {
+  content: "\e907";
+}
+.icon-1chaqmoq:before {
+  content: "\e908";
+}
+.icon-1bulutli:before {
+  content: "\e909";
+}
+.icon-1qora-bulut:before {
+  content: "\e90a";
+}
+.icon-1qalam:before {
+  content: "\f040";
+}
+.icon-1telephone:before {
+  content: "\e90b";
+}
